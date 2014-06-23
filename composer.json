@@ -27,5 +27,10 @@
             "Phinx": "src/"
         }
     },
-    "bin": ["bin/phinx"]
+    "bin": ["bin/phinx"],
+    "extra": {
+        "branch-alias": {
+            "dev-master": "0.3.5"
+        }
+    }
 }
