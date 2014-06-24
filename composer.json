@@ -30,7 +30,6 @@
     "bin": ["bin/phinx"],
     "extra": {
         "branch-alias": {
-            "dev-master": "0.3.5",
             "dev-bugfix": "0.3.5"
         }
     }
