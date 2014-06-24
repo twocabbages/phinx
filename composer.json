@@ -1,7 +1,6 @@
 {
     "name": "robmorgan/phinx",
     "type": "library",
-    "version": "0.3.6",
     "description": "Phinx makes it ridiculously easy to manage the database migrations for your PHP app.",
     "keywords": ["phinx", "migrations", "database", "db", "database migrations"],
     "homepage": "http://phinx.org",
@@ -26,12 +25,6 @@
     "autoload": {
         "psr-0": {
             "Phinx": "src/"
-        }
-    },
-    "bin": ["bin/phinx"],
-    "extra": {
-        "branch-alias": {
-            "dev-bugfix": "0.3.6"
         }
     }
 }
