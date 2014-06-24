@@ -1,11 +1,5 @@
 {
     "name": "robmorgan/phinx",
-    "version": "dev-bugfix",
-    "source": {
-        "url": "https://github.com/twocabbages/phinx.git",
-        "type": "git",
-        "reference": "master"
-    },
     "type": "library",
     "description": "Phinx makes it ridiculously easy to manage the database migrations for your PHP app.",
     "keywords": ["phinx", "migrations", "database", "db", "database migrations"],
