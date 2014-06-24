@@ -1,7 +1,6 @@
 {
     "name": "robmorgan/phinx",
     "version": "dev-bugfix",
-    "name": "nodge/lessphp",
     "source": {
         "url": "https://github.com/twocabbages/phinx.git",
         "type": "git",
